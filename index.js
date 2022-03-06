@@ -2,7 +2,7 @@
 const utp = require('utp-native')
 const net = require('net')
 const Nanoresource = require('nanoresource')
-const discovery = require('@hyperswarm/discovery')
+const discovery = require('@web4/discovery')
 
 const CONNECTION_TIMEOUT = 10000 // TODO: make configurable
 
