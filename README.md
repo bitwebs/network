@@ -1,6 +1,6 @@
 # @web4/network
 
-The low level networking guts of the Hyperswarm stack.
+The low level networking guts of the BitSwarm stack.
 
 ```
 npm install @web4/network

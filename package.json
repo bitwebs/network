@@ -1,6 +1,6 @@
 {
   "name": "@web4/network",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The networking guts of BitSwarm",
   "main": "index.js",
   "scripts": {
